@@ -1,0 +1,18 @@
+.lbl
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color:bisque;       
+}
+.outerDiv
+{
+    background-color: tomato;    
+    width:vw;
+    border-style: dotted;
+}
+.innerDiv
+{
+    background-color: black;    
+    width:10%;
+    border-style: dotted;
+}
